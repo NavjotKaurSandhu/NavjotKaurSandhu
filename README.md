@@ -1,7 +1,7 @@
 ### Hi I am Navjot Kaur 👋
 
 
-#### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
 ![Anuglar](https://img.shields.io/badge/-Angular-DD0031?&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?&logo=JavaScript&logoColor=F7DF1E)
@@ -32,6 +32,8 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NavjotKaurSandhu&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&sideLabels=DD2727)](https://git.io/streak-stats)
+
+![Navjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavjotKaurSandhu&show_icons=true&theme=bear)
 
 ---
 
