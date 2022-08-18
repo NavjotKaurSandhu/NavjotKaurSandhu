@@ -16,7 +16,7 @@
    </a>
   &emsp;
   <a href="https://rxjs.dev/" target="_blank"> 
-     <img alt="RXJS" src="https://img.shields.io/badge/rxjs%20-%23B7178C.svg?logo=reactivex&logoColor=white">
+     <img alt="RXJS" src="https://img.shields.io/badge/Rxjs%20-%23B7178C.svg?logo=reactivex&logoColor=white">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -29,11 +29,11 @@
 <p align="left">
 &emsp;
    <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?logo=angular&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white">
   </a>
   &emsp;
    <a href="https://angular.io/" target="_blank">
-    <img alt="Angular" src="https://img.shields.io/badge/angular.js%20-%23DD0031.svg?logo=angular&logoColor=white">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular.js%20-%23DD0031.svg?logo=angular&logoColor=white">
   </a>
   &emsp;
 </p>
@@ -68,8 +68,10 @@
 
 <p align="left">
   &emsp;
-    <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/jest%20-%23C21325.svg?logo=jest&logoColor=white"></a>
- &emsp; 
+    <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest%20-%23C21325.svg?logo=jest&logoColor=white"></a>
+ &emsp;
+ <a href="https://jestjs.io/"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine%20-%238A4182.svg?logo=jasmine&logoColor=white"></a>
+ &emsp;
 </p>
 
 ### 👉 Databases
@@ -121,7 +123,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotKaurSandhu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotKaurSandhu&layout=compact&theme=tokyonight)](https://github.com/NavjotKaurSandhu)
 
 </div>
 
@@ -129,6 +131,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=NavjotKaurSandhu&style=flat-square)
+[![](https://komarev.com/ghpvc/?username=NavjotKaurSandhu&style=flat-square)](https://github.com/NavjotKaurSandhu)
 
 </div>
