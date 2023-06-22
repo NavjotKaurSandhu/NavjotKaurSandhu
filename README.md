@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I’m currently working as Frontend Developer.
 - 🚀 I love working with leading technologies like Angular | Ngrx | Rxjs | Javascript | Typescript | Micro frontend | Agile Methodologies.
-- 🔬 I’m currently learning about <b>React.</b>
+- 🔬 I’m currently learning about <b>Cypress.</b>
 
 
 ## 🛠️ My Skills
