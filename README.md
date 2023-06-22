@@ -93,7 +93,7 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-   &emsp; 
+   &emsp;
   </p>
 
 
@@ -112,21 +112,11 @@
 </div>
 
 <div align="center">
-
   <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
-
-  [![](https://github-readme-stats.vercel.app/api?username=NavjotKaurSandhu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NavjotKaurSandhu)
+  
   [![](https://github-readme-streak-stats.herokuapp.com/?user=NavjotKaurSandhu&theme=tokyonight&hide_border=true)](https://github.com/NavjotKaurSandhu)
 
 </div>
-
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavjotKaurSandhu&layout=compact&theme=tokyonight)](https://github.com/NavjotKaurSandhu)
-
-</div>
-
 
 <div align="center">
 
