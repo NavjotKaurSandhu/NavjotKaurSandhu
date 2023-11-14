@@ -1,9 +1,8 @@
 ## Hi I am Navjot Kaur 👋
 
 - 👨🏻‍💻 I’m currently working as Frontend Developer.
-- 🚀 I love working with leading technologies like Angular | Ngrx | Rxjs | Javascript | Typescript | Micro frontend | Agile Methodologies.
-- 🔬 I’m currently learning about <b>Cypress.</b>
-
+- 🚀 I love working with leading technologies like Angular | Ngrx | Rxjs | Javascript | Typescript | Jest | Cypress | Micro frontend | Agile & Kanban Methodologies.
+- 🔬 I’m currently learning about <b>Java</b>.
 
 ## 🛠️ My Skills
 
@@ -33,7 +32,7 @@
   <p align="left">
   &emsp;
      <a href="https://angular.io/" target="_blank">
-      <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white">
+      <img alt="Angular" src="https://img.shields.io/badge/Angular%20-rgb(217,44,215).svg?logo=angular&logoColor=white">
     </a>
     &emsp;
      <a href="https://angular.io/" target="_blank">
@@ -59,7 +58,7 @@
     </a>
      &emsp;
     <a href="https://material.angular.io/" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/-Angular%20Material-757575?style=flat&logo=angular&logoColor=white">
+      <img alt="CSS" src="https://img.shields.io/badge/-Angular%20Material-rgb(217,44,215)?style=flat&logo=angular&logoColor=white">
     </a>
      &emsp;
     <a href="https://getbootstrap.com" target="_blank"> 
@@ -74,7 +73,9 @@
     &emsp;
       <a href="https://jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest%20-%23C21325.svg?logo=jest&logoColor=white"></a>
    &emsp;
-   <a href="https://jestjs.io/"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine%20-%238A4182.svg?logo=jasmine&logoColor=white"></a>
+   <a href="https://jasmine.github.io/"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine%20-%238A4182.svg?logo=jasmine&logoColor=white"></a>
+   &emsp;
+    <a href="https://www.cypress.io/"><img alt="Cypress" src="https://img.shields.io/badge/Cypress%20-rgb(1,119,127).svg?logo=cypress&logoColor=white"></a>
    &emsp;
   </p>
 
@@ -93,6 +94,8 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Intellij%20-black.svg?logoColor=white"></a>
    &emsp;
   </p>
 
